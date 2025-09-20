@@ -1,0 +1,77 @@
+# --- Python ---
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Egg directories
+*.egg-info/
+*.egg
+
+# --- Virtual Environments ---
+# A common practice is to place the venv in the project directory
+venv/
+env/
+.venv/
+*/venv/
+*/env/
+*/.venv/
+
+# --- Environment Variables ---
+# Never commit your environment variables or secrets!
+.env
+
+# --- Test Artifacts & Coverage Reports ---
+# Pytest cache and reports
+.pytest_cache/
+pytest_*.log
+test-report.html
+report.html
+.coverage
+htmlcov/
+pytestdebug.log
+
+# --- IDE / Editor Configuration ---
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.project
+.name
+
+# --- Operating System Files ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+
+# --- Build & Distribution ---
+# Generated distribution files
+dist/
+build/
+*.spec
+downloads/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# --- Log files ---
+*.log
+logs/
+*.log.*
