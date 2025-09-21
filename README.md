@@ -13,7 +13,7 @@
 An **enterprise-grade generative AI platform** built to resolve compliance and quality assurance bottlenecks in the HealthTech industry. By integrating **Google Vertex AI (Gemini)** and **Document AI services**, this solution automates the end-to-end QA lifecycle — from analyzing regulatory requirements to generating traceable test cases and creating privacy-safe synthetic data for development and testing.
 
 **Repository:** [SNA-Nervegrid](https://github.com/arshad98333/SNA-Nervegrid.git)
-**Live Demo:** [Demo Link](%22%22)
+**Live Demo:** [Demo Link](https://ai-copilot-service-305886826805.us-central1.run.app/)
 
 ---
 
